@@ -1,0 +1,40 @@
+img{
+    width: 350px;
+    border: 5px double black;
+}
+    
+h1{
+    padding: 5px;
+    font-size:35px;
+    text-align: center;
+    font-family: ALT Systema Bold;
+    border-bottom: 5px dashed black;
+    border-top: 5px dashed black;
+    background-color:rgb(194, 245, 117) ;
+}
+h2{
+    font-size: 18px;
+    font-family: ALT Systema Bold;
+    text-align: center;
+    background-image: linear-gradient( to right, white,rgb(182, 221, 122),white) ;
+}
+.logo{
+     float: left;
+     width: 20px;
+}
+ul{
+    font-family: Baron Neue;
+    font-size:20px;
+}
+
+
+p{
+    font-size: 20px;
+    font-family:Baron Neue;
+}
+footer{
+    color: black;
+    background-color: rgb(166, 170, 173);
+    font-size: 15px;
+    font-family: cursive;
+}
